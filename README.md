@@ -5,7 +5,9 @@ types
 **WE can make bold**
 
 *Also Italic*
+
 to make list
+
 - tomato
 - potato
 - onion
