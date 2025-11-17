@@ -3,7 +3,8 @@ to study read me
 # THIS IS READ ME FILE
 types
 **WE can make bold**
-*alsO Italic*
+
+*Also Italic*
 to make list
 - tomato
 - potato
